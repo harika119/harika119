@@ -1,1 +1,6 @@
-
+{
+    "name": "harika",
+    "age": 21,
+    "isStudent": false,
+    "hobbies": ["reading", "gaming", "cooking"]
+}
